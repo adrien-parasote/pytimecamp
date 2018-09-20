@@ -14,7 +14,7 @@ All Timecamp api can be found [here](https://github.com/timecamp/timecamp-api).
 Moreover this application only support the following APIs/methods :
 
 | API | Supported Methods |
-| --- |: ----: |
+| :---: | --- |
 | account | list |
 | currency | list |
 | tax | list |
